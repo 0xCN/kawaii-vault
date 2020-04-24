@@ -1,4 +1,5 @@
 # Kawaii Vault (づ｡◕‿‿◕｡)づ
+some sort of password manager that uses GitHub's Gist service to store its encrypted data.
 
 ## Setup
 You need to fill in Config.toml with the required info.
@@ -29,3 +30,5 @@ CTRL-F: Find
 CTRL-P: Generate a Password
 ```
 ![](kawaii-vault.png)
+
+## [Downoad Binary](https://github.com/0xCN/kawaii-vault/releases/)
